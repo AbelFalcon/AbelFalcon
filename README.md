@@ -1,7 +1,13 @@
- 🌱 Soy de Las Palmas de Gran Canaria y tengo 25 años. Me apasiona el desarrollo web tanto en el backend como en el frontend. Disfruto colaborando y contribuyendo a proyectos de código abierto. En mi tiempo libre, me encanta viajar y explorar nuevos lugares. Siempre estoy buscando nuevas oportunidades para aprender y crecer en el mundo del desarrollo de software.
+<img align='right' src='https://i.imgur.com/BfDzhf4.png' width='200"'>
 
-📨 Puedes contactarme en contacto@abelfalcon.com.  
-🔆 Mas información de mi: https://www.abelfalcon.com/
+[![Twitter Badge](https://img.shields.io/badge/-@AbelFalconn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AbelFalconn)](https://twitter.com/AbelFalconn) [![Linkedin Badge](https://img.shields.io/badge/-abelfalcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelfalcon/)](https://www.linkedin.com/in/abelfalcon/) 
+[![Gmail Badge](https://img.shields.io/badge/-contacto@abelfalcon.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacto@abelfalcon.com)](contacto@abelfalcon.com)
+
+🌱 ¡Hola! Soy Abel, un entusiasta del desarrollo web de Las Palmas de Gran Canaria. Me apasiona crear experiencias increíbles tanto en el backend como en el frontend. Disfruto colaborar en proyectos de código abierto donde puedo aportar mis habilidades y aprender de otros. En mi tiempo libre, me encanta viajar y explorar nuevos lugares; siempre estoy en la búsqueda de aventuras que me enriquezcan y me inspiren.
+
+Soy un aprendiz de por vida, siempre buscando nuevas oportunidades para crecer en el fascinante mundo del desarrollo de software. Aquí hay un vistazo a las tecnologías que manejo
+
+<br/>
 
 <div align="center">
   
@@ -15,9 +21,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=abelfalcon&layout=compact&theme=radical)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abel-falcòn-espino-0b0597207)
-
   
 </div>
 
