@@ -1,5 +1,3 @@
-<img align='right' src='https://i.imgur.com/BfDzhf4.png' width='200"'>
-
 [![Twitter Badge](https://img.shields.io/badge/-@AbelFalconn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AbelFalconn)](https://twitter.com/AbelFalconn) [![Linkedin Badge](https://img.shields.io/badge/-abelfalcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelfalcon/)](https://www.linkedin.com/in/abelfalcon/) 
 [![Gmail Badge](https://img.shields.io/badge/-contacto@abelfalcon.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacto@abelfalcon.com)](contacto@abelfalcon.com)
 
