@@ -1,11 +1,31 @@
-[![Twitter Badge](https://img.shields.io/badge/-@AbelFalconn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AbelFalconn)](https://twitter.com/AbelFalconn) [![Linkedin Badge](https://img.shields.io/badge/-abelfalcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelfalcon/)](https://www.linkedin.com/in/abelfalcon/) 
-[![Gmail Badge](https://img.shields.io/badge/-contacto@abelfalcon.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacto@abelfalcon.com)](contacto@abelfalcon.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/AbelFalconn)](https://twitter.com/AbelFalconn)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abelfalcon/)](https://www.linkedin.com/in/abelfalcon/)
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contacto@abelfalcon.com)](mailto:contacto@abelfalcon.com)
+
+![Linea](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
 
 🌱 ¡Hola! Soy Abel, un entusiasta del desarrollo web de Las Palmas de Gran Canaria. Me apasiona crear experiencias increíbles tanto en el backend como en el frontend. Disfruto colaborar en proyectos de código abierto donde puedo aportar mis habilidades y aprender de otros. En mi tiempo libre, me encanta viajar y explorar nuevos lugares; siempre estoy en la búsqueda de aventuras que me enriquezcan y me inspiren.
 
-Soy un aprendiz de por vida, siempre buscando nuevas oportunidades para crecer en el fascinante mundo del desarrollo de software. Aquí hay un vistazo a las tecnologías que manejo
+Soy un aprendiz de por vida, siempre buscando nuevas oportunidades para crecer en el fascinante mundo del desarrollo de software. 
 
-<br/>
+![Linea](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+- 🏢 **Actualmente trabajo en el Instituto Nacional de la Seguridad Social (INSS)**  
+  [🔗 Sitio web oficial](https://www.seg-social.es)
+
+- 🕵️‍♂️ **Conocimiento en Ciberseguridad**  
+  En constante aprendizaje y explorando oportunidades en **Bug Bounty's**.
+
+- 🤝 **Colaboración en un PMS modular**  
+  Desarrollo de un sistema de gestión para la industria hotelera junto con mi compañero.
+
+- 🌍 **Traductor activo**  
+  Contribuyendo a la accesibilidad de contenido técnico.
+
+- 🛠️ **Apasionado por la automatización**  
+  Siempre buscando formas de optimizar procesos y mejorar flujos de trabajo.
+
+![Linea](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
 
 <div align="center">
   
