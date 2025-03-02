@@ -10,8 +10,8 @@ Soy un aprendiz de por vida, siempre buscando nuevas oportunidades para crecer e
 
 ![Linea](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- 🏢 **Actualmente trabajo en el Instituto Nacional de la Seguridad Social (INSS)**  
-  [🔗 Sitio web oficial](https://www.seg-social.es)
+- 🏢 **Actualmente trabajo en GPIC SL. Para un organismo gubernamental**  
+  [🔗 Sitio web oficial]()  
 
 - 🕵️‍♂️ **Conocimiento en Ciberseguridad**  
   En constante aprendizaje y explorando oportunidades en **Bug Bounty's**.
