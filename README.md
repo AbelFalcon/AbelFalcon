@@ -16,9 +16,6 @@ Soy un aprendiz de por vida, siempre buscando nuevas oportunidades para crecer e
 - 🕵️‍♂️ **Conocimiento en Ciberseguridad**  
   En constante aprendizaje y explorando oportunidades en **Bug Bounty's**.
 
-- 🤝 **Colaboración en un PMS modular**  
-  Desarrollo de un sistema de gestión para la industria hotelera junto con mi compañero.
-
 - 🌍 **Traductor activo**  
   Contribuyendo a la accesibilidad de contenido técnico.
 
